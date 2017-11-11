@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Sitemap: http://dimabirthday.tilda.ws/sitemap.xml
+Host: dimabirthday.tilda.ws
